@@ -1,0 +1,18 @@
+Data files and sources
+# Ignore the other doc file named data files and sources and use this one please. 
+
+1.	“Simulated Lung cancer data for QLD.csv”
+Published as a supplementary information with the manuscript. Can be downloaded and saved as a .csv file before using in the analysis. 
+Simulated lung cancer incidence data for QLD, data source: Cancer Council Queensland, contact: Statistics@cancerqld.org.au
+
+2.	“Shapefiles_Mesh_SA1_SA2_SA3_SA4” folder
+ contains the relevant .shp files for spatial modelling.
+Data source: Australian Bureau of Statistics (https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.001July%202016?OpenDocument)
+
+3.	“sa2_2011_to_sa2_2016.csv”
+Correspondence between 2011 boundary levels and 2016 boundary levels
+Data Source: Australian Bureau of Statistics (https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.001July%202016?OpenDocument)
+
+4.	“2016 census mesh block counts.csv”
+Population counts from census in mesh block level
+Data Source: Australian Bureau of Statistics (https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/2074.02016?OpenDocument )
